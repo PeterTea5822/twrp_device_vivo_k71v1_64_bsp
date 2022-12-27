@@ -18,3 +18,4 @@
 
 LOCAL_PATH := device/vivo/k71v1_64_bsp
 
+

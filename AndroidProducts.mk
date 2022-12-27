@@ -16,5 +16,6 @@
 # limitations under the License.
 #
 
+
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_k71v1_64_bsp.mk
