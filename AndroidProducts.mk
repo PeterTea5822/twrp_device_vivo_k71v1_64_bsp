@@ -20,4 +20,4 @@ COMMON_LUNCH_CHOICES := \
      omni_k71v1_64_bsp-eng
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_k71v1_64_bsp.mk
+     $(DEVICE_PATH)/omni_k71v1_64_bsp.mk
