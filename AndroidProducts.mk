@@ -15,7 +15,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+COMMON_LUNCH_CHOICES := \
+     omni_k71v1_64_bsp-userdebug \
+     omni_k71v1_64_bsp-eng
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_k71v1_64_bsp.mk
